@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '588b9dc603414058a69c3c5a0e9660dd',
+  rootNotionPageId: 'b5cfeb412e6142e9831421a21305ecc7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '星落尘埃',
-  domain: 'https://zbnstudio.notion.site/c7798b9fe7d74b53badb07ab8bb3aebf',
+  domain: 'https://nblog.en.icu',
   author: 'zhang',
 
   // open graph metadata (optional)
